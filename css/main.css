@@ -1,0 +1,126 @@
+.main-container{
+  font-family:'',sans-serif;
+  min-height: 490px;
+  text-align: center;
+  color:white;
+  color:teal;
+  padding-top: 300px;
+ background: url(https://i.pinimg.com/originals/76/6d/78/766d780bb1040ebdd0535ae75326796b.gif);
+
+  background-repeat: no-repeat;
+  background-size: cover;
+  width:%;
+}
+.title{
+	color:white;
+  padding-bottom: 150px;
+  margin-bottom: -80px;
+}
+
+#sideNav{
+  background-color: blue;
+}
+#projects{
+  width: 97%;
+  margin-left: 50px;
+}
+.progress-bar{
+  background-color: teal;
+}
+p{
+  text-align: center;
+  padding-top: 30px;
+  color: black;
+}
+h1{
+  text-align: center;
+  font-size: 30px;
+  /*text-decoration-color: black;*/
+}
+h4{
+  padding-top: 30px;
+  text-align: center;
+}
+.form-group{
+  padding-top: 30px;
+}
+.social-icons{
+  text-align: center;
+}
+.form-group{
+  text-align: center;
+}
+ul.social-network {
+  list-style: none;
+  display: inline;
+  margin-left:0 !important;
+  padding: 0;
+}
+ul.social-network li {
+  display: inline;
+  margin: 0 px;
+  padding-left: px;
+}
+.social-network a.icoRss:hover {
+  background-color: #F56505;
+}
+.social-network a.icoFacebook:hover {
+  background-color:#3B5998;
+}
+.social-network a.icoTwitter:hover {
+  background-color:#33ccff;
+}
+.social-network a.icoGoogle:hover {
+  background-color:#BD3518;
+}
+.social-network a.icoVimeo:hover {
+  background-color:#0590B8;
+}
+.social-network a.icoLinkedin:hover {
+  background-color:#007bb7;
+}
+.social-network a.icoRss:hover i, .social-network a.icoFacebook:hover i, .social-network a.icoTwitter:hover i,
+.social-network a.icoGoogle:hover i, .social-network a.icoVimeo:hover i, .social-network a.icoLinkedin:hover i {
+  color:#fff;
+}
+a.socialIcon:hover, .socialHoverClass {
+  color:#44BCDD;
+}
+.social{
+  margin-left:385px;
+}
+.btn-btn{
+  background-color: grey;
+  color: white;
+  border-radius: 20px;
+}
+.follow{
+  background-color: blue;
+  width:120%;
+}
+.social-circle li a {
+  display:inline-block;
+  position:relative;
+  margin:0 auto 0 auto;
+  -moz-border-radius:50%;
+  -webkit-border-radius:50%;
+  border-radius:50%;
+  text-align:center;
+  width: 50px;
+  height: 50px;
+  font-size:20px;
+  background-color: #050121;
+}
+.social-circle li i {
+  margin:0;
+  line-height:50px;
+  text-align: center;
+}
+.social-circle i {
+  color: #fff;
+  -webkit-transition: all 0.8s;
+  -moz-transition: all 0.8s;
+  -o-transition: all 0.8s;
+  -ms-transition: all 0.8s;
+  transition: all 0.8s;
+}
